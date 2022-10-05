@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.24b5f59f.css",
+    "main.js": "/Personal-Portfolio/static/js/main.27d70ad0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CV.pdf": "/Personal-Portfolio/static/media/CV.4e174aa884ef419d756a.pdf",
+    "static/media/profile-img.jpeg": "/Personal-Portfolio/static/media/profile-img.6a3bab88fd3b3dfb9710.jpeg",
+    "static/media/about-img.jpeg": "/Personal-Portfolio/static/media/about-img.5039617bfcf997533616.jpeg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.24b5f59f.css.map": "/Personal-Portfolio/static/css/main.24b5f59f.css.map",
+    "main.27d70ad0.js.map": "/Personal-Portfolio/static/js/main.27d70ad0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b5f59f.css",
+    "static/js/main.27d70ad0.js"
+  ]
+}
